@@ -10,10 +10,10 @@ body {
     flex-direction: column; /* Stack children vertically */
     align-items: center; /* Center horizontally */
     min-height: 100vh;
-    background: rgb(59, 59, 139);
+    background: rgb(70, 59, 139);
     margin: 0; /* Remove default margin */
 }
-
+.btn
 header {
   position: sticky;
   top: 0;
@@ -42,7 +42,7 @@ aside.sidebar {
     right: 0;
     transform: translateY(-50%);
     width: 250px; /* fixed width for ad */
-    background-color: #ffffff;
+    background-color: #ca3636;
     box-shadow: -4px 0 8px rgba(0,0,0,0.2);
     padding: 10px;
     z-index: 1000;
